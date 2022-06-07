@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "bookname": "三国演义前传",
+    "author": "刘慈欣",
+    "publisher": "武汉人民出版社"
+  },
+  {
+    "id": 2,
+    "bookname": "水浒传",
+    "author": "施耐庵",
+    "publisher": "北京人民出版社"
+  },
+  {
+    "id": 3,
+    "bookname": "红楼梦",
+    "author": "曹雪芹",
+    "publisher": "铁岭人民出版社"
+  },
+  {
+    "bookname": "西游记b",
+    "author": "西游记c",
+    "publisher": "西游记c",
+    "id": 4
+  },
+  {
+    "bookname": "三体1",
+    "author": "刘慈欣",
+    "publisher": "武汉人民出版社",
+    "id": 5
+  }
+]
