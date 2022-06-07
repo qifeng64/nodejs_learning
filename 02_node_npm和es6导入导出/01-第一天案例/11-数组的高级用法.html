@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+        <title>Document</title>
+    </head>
+    <body>
+        <script>
+            let arr = [1, 2, 3, 4, 5];
+
+            // 1.删除数组中的内容;
+            //   a.查询对应id的索引值，然后根据索引值删除数据;
+            // let index = arr.findIndex(item => item == 3);
+            // arr.splice(index, 1);
+            // console.log(arr);
+            //   b.通过数组中的过滤方法，把指定id的元素过滤出去;(后面使用)
+            // let newArr = arr.filter(item => item != 3);
+            // console.log(newArr);
+
+            // 2.修改数组中的内容;
+            //   思路：先删除，在添加;  splice(index, 1, XXX) 是对原数组进行操作 返回值是被删除的元素;
+            let index = arr.findIndex((item) => item == 3);
+            arr.splice(index, 1, "lvchao");
+            console.log(arr);
+        </script>
+    </body>
+</html>
