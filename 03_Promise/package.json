@@ -1,0 +1,13 @@
+{
+    "type": "module",
+    "name": "03_promise",
+    "version": "1.0.0",
+    "description": "",
+    "main": "01-回调地狱体验.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+}
