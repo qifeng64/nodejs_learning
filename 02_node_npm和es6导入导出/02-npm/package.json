@@ -4,7 +4,9 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "aaa": "nodemon ./01-moment模块体验.js",
+        "注释": "当输入 npm run aaa 时，自动运行 nodemon ./01-moment模块体验.js "
     },
     "keywords": [],
     "author": "",
