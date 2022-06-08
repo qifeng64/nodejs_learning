@@ -1,0 +1,4 @@
+console.log('不带有后缀名.js的04文件');
+
+// 导出
+module.exports.str = "123123";
