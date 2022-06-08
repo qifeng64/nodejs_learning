@@ -1,0 +1,16 @@
+{
+    "name": "qifeng-tools",
+    "version": "1.0.0",
+    "description": "这是开发的第一个第三方模块",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "qifeng",
+        "tools",
+        "fn"
+    ],
+    "author": "qifeng",
+    "license": "ISC"
+}
